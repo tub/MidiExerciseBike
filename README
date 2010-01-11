@@ -1,0 +1,2 @@
+Arduino sketch to read the reed switch of an exercise bike and output a smoothed MIDI cc message proportional to the pedaling frequency.
+More details: http://www.55th.co.uk/research-department/midi-exercise-bike/
